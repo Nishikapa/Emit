@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Emit/Emit.csproj" />
+  <Project Path="Hoge/Hoge.csproj" />
+</Solution>
